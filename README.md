@@ -10,4 +10,4 @@ Skills: Networking Troubleshooting / Penetration Testing / Python
 - 📫 How to reach me: savvidis.panagiotis.ps@gmail.com 
 - 😄 Pronouns: Panos 
 
-Personal Quote <code>Sky is the Limit</code>
+## <b>Personal Quote:</b> <code>Sky is the Limit</code>
