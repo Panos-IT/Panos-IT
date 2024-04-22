@@ -8,6 +8,4 @@ Skills: Networking Troubleshooting / Penetration Testing / Python
 - 👯 I’m looking to collaborate on Networking and Cybersecurity Projects 
 - 💬 Ask me about Details 
 - 📫 How to reach me: savvidis.panagiotis.ps@gmail.com 
-- 😄 Pronouns: Panos 
-
-## <b>Personal Quote:</b> <code>Sky is the Limit</code>
+- 😄 Pronouns: Panos
