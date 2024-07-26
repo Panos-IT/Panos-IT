@@ -1,4 +1,4 @@
-# ☁︎⋅ Panagiotis Savvidis | Network Engineer & Cybersecurity Specialist
+# ![image](https://github.com/user-attachments/assets/f702367d-4bed-44e6-abe1-7ae2a2239267) Panagiotis Savvidis | Network Engineer & Cybersecurity Specialist
 
 ## 🚀 Skills & Technologies
 ```python
