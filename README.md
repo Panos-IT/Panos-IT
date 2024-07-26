@@ -7,11 +7,11 @@ class IT_Engineer:
         self.name = "Panagiotis Savvidis"
         self.role = "Network Engineer & Cybersecurity Specialist"
         self.language_spoken = ["en_US", "el_GR"]
-        self.skills = ["Networking", "Cisco CLI", "Linux", "OS Configuration & Virtual Machines", "Python", "Penetration Testing"]
+        self.skills = ["Networking", "Linux", "Virtual Machines", "Python", "Penetration Testing"]
         self.certifications = ["CCNA"]
         
     def say_hi(self):
-        print("Hello! Thank you for taking the time to visit my profile. I hope you find my projects and skills engaging.")
+        print("Hello! Thank you for visitινγ my profile. I hope you find my projects and skills engaging.")
 
 me = IT_Engineer()
 me.say_hi()
@@ -49,4 +49,4 @@ Evolving and diving into advanced concepts and practical applications in Network
 - Developing Python applications for network management and security analysis.
 
 
-  #NetworkEngineer #Cybersecurity #PenetrationTesting #Linux #VirtualMachines
+#NetworkEngineer #Cybersecurity #PenetrationTesting #Linux #VirtualMachines
